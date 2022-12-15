@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework</string>
+    <string name="btn_sign_text">Войти</string>
+    <string name="psw_edit_text">Пароль:</string>
+    <string name="lgn_edit_text">Логин:</string>
+    <string name="sign_text">Вход</string>
+    <string name="registration_text">Регистрация</string>
+    <string name="btn_registration_text">Зарегистрироваться</string>
+</resources>
